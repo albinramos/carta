@@ -1,0 +1,28 @@
+*
+{
+    padding-left: 10px;
+}
+
+#address1{
+    text-align:right;
+    justify-content: right;
+    padding: 20px;
+}
+
+#address2{
+    padding: 20px;
+}
+
+#ullista{
+    padding-left: 40px;
+}
+
+#ollista{
+    padding-left: 40px;
+}
+
+.parrafosint{
+    padding-left: 40px;
+}
+
+
